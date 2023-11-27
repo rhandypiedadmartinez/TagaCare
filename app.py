@@ -17,7 +17,10 @@ def main():
 
     st.title("TagaCare")
 
-    st.write(nlp("rhandy").vector)
+    doc1 = nlp("rhandy")
+    print()
+    for token in doc1:    
+        st.write(f"{token.text} {token.vector[:5]} {token.pos_}")
 
     # Initialize chat history
     if "messages" not in st.session_state:
