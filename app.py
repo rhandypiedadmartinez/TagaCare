@@ -3,9 +3,6 @@ import os
 import spacy
 import tl_calamancy_lg
 
-
-nlp = tl_calamancy_lg.load()
-
 # Get the absolute path of the script directory
 cwd = os.getcwd()
 
@@ -17,11 +14,15 @@ def main():
 
     st.title("TagaCare")
 
-    st.write(nlp("rhandy").vectors)
-
     # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
+
+    # Initialize chat history
+    if "nlp" not in st.session_state:
+        st.session_state.nlp = tl_calamancy_lg.load() 
+        st.write(st.session_state.nlp("rhandy").vector)
+
 
     # Display chat messages from history on app rerun
     for message in st.session_state.messages:
