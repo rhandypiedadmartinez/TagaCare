@@ -1,8 +1,10 @@
 import streamlit as st
 import os
 import spacy
+import tl_calamancy_lg
 
-nlp = spacy.load("tl_calamancy_lg")
+
+nlp = tl_calamancy_lg.load()
 
 # Get the absolute path of the script directory
 cwd = os.getcwd()
@@ -15,7 +17,7 @@ def main():
 
     st.title("TagaCare")
 
-    st.write(nlp("tayo"))
+    st.write(nlp("rhandy").vectors)
 
     # Initialize chat history
     if "messages" not in st.session_state:
