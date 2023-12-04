@@ -238,10 +238,11 @@
       "tag": "Pagtatae",
       "patterns": [
         "Paano gamutin ang pagtatae?",
-        "Ano ang gagawin kung ako'y magka-diarrhea?",
-        "Anong gamot ang dapat inumin kung ako'y magka-diarrhea?",
-        "Paano lunasan ang diarrhea?",
-        "Paano lunasan ang pagtatae?"
+        "Ano ang gagawin kung ako'y nagtatae?",
+        "Anong gamot ang dapat inumin kung ako'y nagtatae?",
+        "Paano lunasan ang pagtatae?",
+        "Paano gamot sa nagtatae?",
+        "Anong gagawin pag may pagtatae?"
       ],
       "responses": [
         "1) Ang pag-hydrate ng katawan ay mahalaga para sa paggaling mula sa diyareya. Ito ay nagdudulot ng pagkawala ng mga electrolytes tulad ng sodium at chloride. 2) Ito ay lubos na inirerekomenda na iwasan ang mga produktong gatas, dahil maaaring pa-lalain nito ang diyareya sa ilang tao. 3) Gayunpaman, kung ang diyareya ay tumagal ng higit sa 2 araw, maghanap ng payo mula sa lisensyadong medikal upang maiwasan ang komplikasyon."
