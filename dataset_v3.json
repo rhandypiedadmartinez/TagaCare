@@ -3,10 +3,10 @@
     {
       "tag": "Hiwa",
       "patterns": [
-        "Ano ang gagawin kapag nahiwa?",
-        "Paano gamutin ang mga hiwa?",
-        "Anong gamot ang dapat ipahid sa mga hiwa?",
-        "Ano ang ipapahid sa mga hiwa?",
+        "Ano ang gagawin kapag nahiwa",
+        "Paano gamutin ang mga hiwa",
+        "Anong gamot ang dapat ipahid sa mga hiwa",
+        "Ano ang ipapahid sa mga hiwa",
         "hiwa"
       ],
       "responses": [
@@ -17,12 +17,12 @@
     {
       "tag": "gasgas",
       "patterns": [
-        "Paano tratuhin ang mga gasgas?",
-        "Nakakadulot ba ng peklat ang mga gasgas?",
+        "Paano tratuhin ang mga gasgas",
+        "Nakakadulot ba ng peklat ang mga gasgas",
         "gasgas",
-        "Ano ang gagawin kapag may gasgas?",
-        "Anong gamot ang dapat ipahid para sa mga gasgas?",
-        "Paano gamutin ang mga gasgas?"
+        "Ano ang gagawin kapag may gasgas",
+        "Anong gamot ang dapat ipahid para sa mga gasgas",
+        "Paano gamutin ang mga gasgas"
       ],
       "responses": [
         "Hugasan muna ang mga kamay. Maingat na linisin ang lugar na apektado ng gasgas gamit ang malamig hanggang sa lukewarm na tubig at banayad na sabon. Alisin ang dumi o iba pang partikulo mula sa gasgas gamit ang sterilized na tweezers. Para sa isang bahagyang gasgas na hindi nagdurugo, hayaan itong walang takip. Kung ang sugat ay nagdurugo, gamitin ang malinis na tela o bandage, at ipatong ng maingat na presyon sa lugar upang itigil ang anumang pagdurugo. Takpan ang sugat na nagdugo ng manipis na layer ng topical antibiotic ointment, tulad ng Bacitracin, o sterile moisture barrier ointment, tulad ng Aquaphor. Takpan ito ng malinis na bandage o gauze. Maingat na linisin ang sugat at palitan ang ointment at bandage isang beses kada araw. Bantayan ang lugar para sa mga senyales ng impeksyon, tulad ng sakit o pamumula at pamamaga. Makipag-consult sa iyong doktor kung may suspetsa ka ng impeksyon."
@@ -32,14 +32,14 @@
     {
       "tag": "Kagat ng bubuyog o putakti",
       "patterns": [
-        "Paano gamutin ang kagat ng bubuyog?",
-        "Ano ang gagawin kung ako'y nakagat ng bubuyog?",
-        "Anong gamot ang dapat kunin kung ako'y nakagat ng bubuyog?",
-        "Paano lunasan ang kagat ng bubuyog?",
-        "Paano gamutin ang kagat ng putakte?",
-        "Ano ang gagawin kung ako'y nakagat ng putakte?",
-        "Anong gamot ang dapat kunin kung ako'y nakagat ng putakti?",
-        "Paano lunasan ang kagat ng putakti?"
+        "Paano gamutin ang kagat ng bubuyog",
+        "Ano ang gagawin kung ako'y nakagat ng bubuyog",
+        "Anong gamot ang dapat kunin kung ako'y nakagat ng bubuyog",
+        "Paano lunasan ang kagat ng bubuyog",
+        "Paano gamutin ang kagat ng putakte",
+        "Ano ang gagawin kung ako'y nakagat ng putakte",
+        "Anong gamot ang dapat kunin kung ako'y nakagat ng putakti",
+        "Paano lunasan ang kagat ng putakti"
       ],
       "responses": [
         "1) Agad na alisin ang anumang nakatusok. Inirerekomenda ng ilang eksperto na gamitin ang isang credit card para alisin ang nakatusok. 2) Ang paglalagay ng yelo sa lugar ay maaaring magbigay ng kaunting ginhawa. Ilagay ang yelo ng 20 minuto isang oras ayon sa pangangailangan. I-wrap ang yelo sa isang tuwalya o ilagay ang isang tela sa pagitan ng yelo at balat para hindi ito malamigan ang balat. 3) Ang pag-inom ng antihistamine tulad ng diphenhydramine (Benadryl) o isang hindi pampatulog tulad ng loratadine (Claritin) ay makakatulong sa pangangati at pamamaga. 4) Uminom ng acetaminophen (Tylenol) o ibuprofen (Motrin) para sa relief ng sakit ayon sa pangangailangan. 5) Banlawan ang lugar ng kagat ng bubuyog ng sabon at tubig. Ang paglalagay ng hydrocortisone cream sa kagat ay makakatulong sa pagtanggal ng pamumula, pangangati, at pamamaga."
@@ -49,10 +49,10 @@
     {
       "tag": "Salubsob",
       "patterns": [
-        "Paano alisin ang tinik o salubsob?",
-        "Paano gamutin ang tinik o salubsob?",
-        "Ano ang gagawin kung nasalubsob?",
-        "Paano dalhin ang tinik o salubsob pataas ng balat?"
+        "Paano alisin ang tinik o salubsob",
+        "Paano gamutin ang tinik o salubsob",
+        "Ano ang gagawin kung nasalubsob",
+        "Paano dalhin ang tinik o salubsob pataas ng balat"
       ],
       "responses": [
         "1. PAHIDAN NG Epsom Salts. I-dissolve ang isang tasa ng salts sa mainit na paliguan at ibabad ang bahagi ng katawan na may tinik. Kung hindi magtagumpay, maaari mo ring ilagay ang ilang salts sa isang bandage pad at takpan ito ng isang araw; sa huli, makakatulong ito na dalhin ang tinik pataas ng balat. 2. Suka O Mantika. Isa pang simpleng paraan upang hilahin ang matigas na tinik ay ibabad ang apektadong lugar sa mantika (olive o mais) o puting suka. I-buhos lang ito sa isang tasa at ibabad ang lugar ng mga 20 hanggang 30 minuto."
@@ -62,10 +62,10 @@
     {
       "tag": "Pilay",
       "patterns": [
-        "Paano gamutin ang isang pilay?",
-        "Ano ang gagawin kung ako'y magka-pilay?",
+        "Paano gamutin ang isang pilay",
+        "Ano ang gagawin kung ako'y magka-pilay",
         "Anong krim ang dapat ipahid kung ako'y magka-pilay",
-        "Anong gamot ang dapat gamitin kung ako'y magka-pilay?"
+        "Anong gamot ang dapat gamitin kung ako'y magka-pilay"
       ],
       "responses": [
         "Gamitin kaagad ang ice pack o ice slush bath ng 15 hanggang 20 minuto at ulitin ito bawat dalawang hanggang tatlong oras habang gising ka. Upang tulungan na itigil ang pamamaga, ikompres ang pilay gamit ang elastic bandage hanggang sa huminto ang pamamaga. Sa karamihan ng mga kaso, sapat na ang mga pain relievers — tulad ng ibuprofen (Advil, Motrin IB, iba pa) o naproxen sodium (Aleve, iba pa) o acetaminophen (Tylenol, iba pa) — upang mapanatili ang sakit mula sa pilay."
@@ -75,12 +75,12 @@
     {
       "tag": "Strains",
       "patterns": [
-        "Paano gamutin ang strain?",
-        "Ano ang gagawin kung ako'y magka-strain?",
-        "Aling cream ang ilalagay kung ako'y magka-strain?",
-        "Aling gamot ang ilalagay kung ako'y magka-strain?",
-        "Paano ma-diagnose ang strain?",
-        "Mas mabuti ba ang init o yelo para sa pulled muscle?"
+        "Paano gamutin ang strain",
+        "Ano ang gagawin kung ako'y magka-strain",
+        "Aling cream ang ilalagay kung ako'y magka-strain",
+        "Aling gamot ang ilalagay kung ako'y magka-strain",
+        "Paano ma-diagnose ang strain",
+        "Mas mabuti ba ang init o yelo para sa pulled muscle"
       ],
       "responses": [
         "Pahinga, Yelo, Compression, at Elevation ang maaaring gamitin para gamutin ang mga tensyon. Iwasan ang paggamit ng iyong kalamnan ng ilang araw, lalo na kung ang galaw ay nagdudulot ng pagtaas ng sakit. Gayundin, mag-aplay ng yelo kaagad pagkatapos masaktan ang iyong kalamnan. Ito ay magpapabawas ng pamamaga. Huwag ilagay ang yelo ng direktang sa iyong balat. Gamitin ang isang yelo pack o balutin ang yelo sa isang tuwalya. Upang mabawasan ang pamamaga, balutin ang apektadong lugar ng may elastikong bandage hanggang bumaba ang pamamaga."
@@ -90,9 +90,9 @@
     {
       "tag": "Lagnat",
       "patterns": [
-        "Paano gamutin ang mild na lagnat?",
-        "Ano ang gagawin kung ako'y may lagnat?",
-        "Anong gamot ang dapat inumin kung ako'y may lagnat?",
+        "Paano gamutin ang mild na lagnat",
+        "Ano ang gagawin kung ako'y may lagnat",
+        "Anong gamot ang dapat inumin kung ako'y may lagnat",
         "Lagnat"
       ],
       "responses": [
@@ -103,12 +103,12 @@
     {
       "tag": "Pagbabara ng ilong",
       "patterns": [
-        "Paano gamutin ang pamamaga o pagbabara ng ilong?",
-        "Ano ang gagawin kung nagbabara ang ilong?",
-        "Anong gamot ang dapat inumin kung ako'y may baradong ilong?",
-        "Ano ang gagawin kung ako'y may baradong ilong?",
-        "Paano gamutin ang baradong ilong?",
-        "Gaano katagal ang pagbabara ng ilong?"
+        "Paano gamutin ang pamamaga o pagbabara ng ilong",
+        "Ano ang gagawin kung nagbabara ang ilong",
+        "Anong gamot ang dapat inumin kung ako'y may baradong ilong",
+        "Ano ang gagawin kung ako'y may baradong ilong",
+        "Paano gamutin ang baradong ilong",
+        "Gaano katagal ang pagbabara ng ilong"
       ],
       "responses": [
         "Kapag ikaw ay may baradong ilong, itunon ang atensiyon sa pagpapanatili ng kahalumigmigan ng iyong mga lusong ng ilong at sinus. Upang mapanatili ang kahalumigmigan ng iyong mga lusong ng ilong, maaari mong gawin ang mga sumusunod: 1) Gumamit ng humidifier o vaporizer. 2) Uminom ng maraming likido. Ito ay magpapahaba ng iyong plema, na maaaring makatulong sa pag-iwas ng baradong sinus. 3) Ilagay ang isang mainit at basang tuwalya sa iyong mukha. Maaaring magbigay ginhawa ito at magbukas ng iyong mga lusong ng ilong."
@@ -118,11 +118,11 @@
     {
       "tag": "Ubo",
       "patterns": [
-        "Paano lunasan ang ubo?",
-        "Paano gamutin ang ubo?",
-        "Ano ang gagawin kung ako'y magka-ubo?",
-        "Anong gamot ang dapat inumin kung ako'y magka-ubo?",
-        "Paano maalis ang ubo?"
+        "Paano lunasan ang ubo",
+        "Paano gamutin ang ubo",
+        "Ano ang gagawin kung ako'y magka-ubo",
+        "Anong gamot ang dapat inumin kung ako'y magka-ubo",
+        "Paano maalis ang ubo"
       ],
       "responses": [
         "1) Honey: Gamitin ang honey para lunasan ang ubo, haluin ang 2 kutsarita (kutsara) sa mainit na tubig o tsaa. Iniinom ang halo na ito isang beses o dalawang beses sa isang araw. Huwag ipainom ang honey sa mga bata na wala pang edad ng isang taon. 2) Luya: Gumawa ng pampatamis na tsaa ng luya sa pamamagitan ng pagdagdag ng 20–40 gramo (g) ng sariwang luya sa isang tasa ng mainit na tubig. Hayaan itong malasa ng ilang minuto bago inumin. Magdagdag ng honey o katas ng kalamansi upang mapabuti ang lasa at lalo pang maibsan ang ubo. 3) Likido: Mahalaga ang pagiging hydrated para sa mga may ubo o sipon. Nagpapakita ng pananaliksik na ang pag-inom ng mga likido sa katamtamang temperatura ay maaaring magpagaan ng ubo, pagtulo ng sipon, at pagbahing."
@@ -132,10 +132,10 @@
     {
       "tag": "Masakit na Lalamunan",
       "patterns": [
-        "Paano gamutin ang masakit na lalamunan?",
-        "Ano ang gagawin kung masakit ang lalamunan?",
-        "Anong gamot ang dapat inumin kung masakit ang lalamunan?",
-        "Paano lunasan ang masakit na lalamunan?"
+        "Paano gamutin ang masakit na lalamunan",
+        "Ano ang gagawin kung masakit ang lalamunan",
+        "Anong gamot ang dapat inumin kung masakit ang lalamunan",
+        "Paano lunasan ang masakit na lalamunan"
       ],
       "responses": [
         "1) Siguruhing magkaruon ng sapat na pahinga at uminom ng maraming likido. 2) Huminga ng singaw, ipainit ang tubig sa gripo. Takpan ng isang tuwalya ang ulo para harangan ang singaw, at buksan ang gripo. Sabihin sa kanya na huminga nang malalim gamit ang bibig at ilong ng 5 hanggang 10 minuto. Ulitin ito ng ilang beses sa isang araw. 3) Painumin ng sabaw ng manok o mainit na tsaa na may honey. Huwag ipainom ang honey sa bata na wala pang edad na 12 na buwan."
@@ -145,11 +145,11 @@
     {
       "tag": "Sinisikmura",
       "patterns": [
-        "Paano gamutin ang problema sa sikmura?",
-        "Ano ang gagawin kung ako'y sinisikmura?",
-        "Anong gamot ang dapat inumin kung ako'y sinisikmura?",
-        "Paano lunasan ang nangangasim na sikmura?",
-        "Anong gamot sa mahapdi ang tiyan?"
+        "Paano gamutin ang problema sa sikmura",
+        "Ano ang gagawin kung ako'y sinisikmura",
+        "Anong gamot ang dapat inumin kung ako'y sinisikmura",
+        "Paano lunasan ang nangangasim na sikmura",
+        "Anong gamot sa mahapdi ang tiyan"
       ],
       "responses": [
         "1) I-replenish ng likido ang katawan. 2) Huwag uminom ng gamot na pang-antidiarrheal o laxatives o gamot para sa sakit, maliban kung ito'y inirerekomenda ng isang propesyonal sa medisina. 3) Ang pag-inom ng antacids ay maaaring makatulong, ayon sa rekomendasyon ng isang propesyonal sa pangangalagang pangkalusugan. 4) Kung madalas magkaruon ng paminsang sakit sa sikmura, kumunsulta sa isang propesyonal sa medisina. 5) Ang pagkain ay hindi dapat madalas maanghang upang ito'y maaaring magbigay ginhawa sa mga sakit ng ulser. 6) Kumuha ng tulong medikal kung ang mga kondisyon ay patuloy o lumalala."
@@ -159,10 +159,10 @@
     {
       "tag": "Problema sa Balat",
       "patterns": [
-        "Paano gamutin ang mga problema sa balat?",
-        "Ano ang gagawin kung ako'y magkaruon ng allergy sa balat?",
-        "Anong gamot ang dapat inumin kung ako'y magkaruon ng allergy sa balat?",
-        "Paano lunasan ang allergy sa balat?"
+        "Paano gamutin ang mga problema sa balat",
+        "Ano ang gagawin kung ako'y magkaruon ng allergy sa balat",
+        "Anong gamot ang dapat inumin kung ako'y magkaruon ng allergy sa balat",
+        "Paano lunasan ang allergy sa balat"
       ],
       "responses": [
         "1) Hydrocortisone cream. 2) Mga ointment tulad ng calamine lotion. 3) Antihistamines. 4) Malamig na kompres. 5) Pampaligo na may oatmeal. 6) Makipag-usap sa iyong doktor ukol para makakuha ng pinakamainam na solution para sa iyong rashes."
@@ -172,10 +172,10 @@
     {
       "tag": "Sakit sa Tiyan",
       "patterns": [
-        "Paano gamutin ang sakit sa tiyan?",
-        "Ano ang gagawin kung masakit sa tiyan?",
-        "Anong gamot ang dapat inumin kung ako'y magkaruon ng sakit sa tiyan?",
-        "Paano lunasan ang sakit sa tiyan?"
+        "Paano gamutin ang sakit sa tiyan",
+        "Ano ang gagawin kung masakit sa tiyan",
+        "Anong gamot ang dapat inumin kung ako'y magkaruon ng sakit sa tiyan",
+        "Paano lunasan ang sakit sa tiyan"
       ],
       "responses": [
         "1) Magbigay ng malinaw na likido na pwedeng sipsipin, tulad ng tubig, sabaw, o prutas na katas na hinahalo sa tubig. 2) Ihain ang mga malabnaw na pagkain, tulad ng saltine crackers, plain na tinapay, tinostadong tinapay, kanin, gelatin, o applesauce. 3) Iwasan ang maanghang o malasaang pagkain at kape o mga inuming may carbonated hanggang 48 oras pagkatapos mawala ang lahat ng sintomas."
@@ -185,10 +185,10 @@
     {
       "tag": "Pasa",
       "patterns": [
-        "Paano gamutin ang pasa?",
-        "Ano ang gagawin kung ako'y magka-pasa?",
-        "Anong gamot ang dapat inumin kung ako'y may pasa?",
-        "Paano lunasan ang pasa?"
+        "Paano gamutin ang pasa",
+        "Ano ang gagawin kung ako'y magka-pasa",
+        "Anong gamot ang dapat inumin kung ako'y may pasa",
+        "Paano lunasan ang pasa"
       ],
       "responses": [
         "1) Ilagay ang yelo sa pasa gamit ang ice pack na may tuwalya. 2) Iwanan ito ng 10 hanggang 20 minuto. 3) Ulitin ito ng ilang beses sa isang araw o dalawa kung kinakailangan. 4) I-kompres ang lugar ng pasa kung ito ay namamaga, gamit ang elastic bandage."
@@ -198,10 +198,10 @@
     {
       "tag": "Napilay na Daliri ng Paa",
       "patterns": [
-        "Paano gamutin ang napilay na daliri ng paa?",
-        "Ano ang gagawin kung ako'y magkapilay sa daliri ng paa?",
-        "Anong gamot ang dapat inumin kung ako'y magkapilay sa daliri ng paa?",
-        "Paano lunasan ang napilay na daliri ng paa?"
+        "Paano gamutin ang napilay na daliri ng paa",
+        "Ano ang gagawin kung ako'y magkapilay sa daliri ng paa",
+        "Anong gamot ang dapat inumin kung ako'y magkapilay sa daliri ng paa",
+        "Paano lunasan ang napilay na daliri ng paa"
       ],
       "responses": [
         "1) Upang makatulong na bawasan ang sakit at pamamaga sa napilay na daliri ng paa, itaas ang paa, ilagay ang yelo sa daliri, at iwasan ang paggamit ng paa. 2) Depende sa kahalagahan ng pagkakabasag, maaaring kailanganing ilagay (ireduce) ang daliri sa tamang posisyon, at ang ilang komplikadong pagkakabasag ng daliri ay maaaring mangailangan ng operasyon. 3) Karamihan sa mga napilay na daliri ng paa ay gumagaling ng walang mga komplikasyon sa loob ng anim na linggo."
@@ -211,10 +211,10 @@
     {
       "tag": "Mabulunan",
       "patterns": [
-        "Paano gamutin ang nabulunan?",
-        "Ano ang gagawin kung ako'y mabulunan?",
-        "Anong gamot ang dapat inumin kung ako'y nabulunan?",
-        "Paano lunasan ang nabulunan?"
+        "Paano gamutin ang nabulunan",
+        "Ano ang gagawin kung ako'y mabulunan",
+        "Anong gamot ang dapat inumin kung ako'y nabulunan",
+        "Paano lunasan ang nabulunan"
       ],
       "responses": [
         "1) Palakasin ang kanilang ubo para subukan linisin ang pagbara. 2) Sabihin sa kanila na subukan iluwa ang bagay kung ito ay nasa kanilang bibig. 3) Kung hindi gumana ang ubo, simulan ang mga back blows at abdominal thrusts."
@@ -224,10 +224,10 @@
     {
       "tag": "Sugat",
       "patterns": [
-        "Paano gamutin ang sugat?",
-        "Ano ang gagawin kung ako'y may sugat?",
-        "Anong gamot ang dapat inumin kung ako'y magkaruon ng sugat?",
-        "Paano lunasan ang sugat?"
+        "Paano gamutin ang sugat",
+        "Ano ang gagawin kung ako'y may sugat",
+        "Anong gamot ang dapat inumin kung ako'y magkaruon ng sugat",
+        "Paano lunasan ang sugat"
       ],
       "responses": [
         "1) Banlawan ang hiwa o sugat ng tubig at magbigay ng presyon gamit ang sterile na gauze, bandage, o malinis na panyo. 2) Kung ang dugo ay tumagos sa bandage, ilagay ang isa pang bandage sa itaas ng unang bandage at patuloy na magbigay ng presyon. 3) Itaas ang bahagi ng katawan na nasugatan upang mabawasan ang dugo. 4) Kapag huminto na ang pagdudugo, takpan ang sugat ng isang bagong malinis na bandage."
@@ -237,12 +237,12 @@
     {
       "tag": "Pagtatae",
       "patterns": [
-        "Paano gamutin ang pagtatae?",
-        "Ano ang gagawin kung ako'y nagtatae?",
-        "Anong gamot ang dapat inumin kung ako'y nagtatae?",
-        "Paano lunasan ang pagtatae?",
-        "Paano gamot sa nagtatae?",
-        "Anong gagawin pag may pagtatae?"
+        "Paano gamutin ang pagtatae",
+        "Ano ang gagawin kung ako'y nagtatae",
+        "Anong gamot ang dapat inumin kung ako'y nagtatae",
+        "Paano lunasan ang pagtatae",
+        "Paano gamot sa nagtatae",
+        "Anong gagawin pag may pagtatae"
       ],
       "responses": [
         "1) Ang pag-hydrate ng katawan ay mahalaga para sa paggaling mula sa diyareya. Ito ay nagdudulot ng pagkawala ng mga electrolytes tulad ng sodium at chloride. 2) Ito ay lubos na inirerekomenda na iwasan ang mga produktong gatas, dahil maaaring pa-lalain nito ang diyareya sa ilang tao. 3) Gayunpaman, kung ang diyareya ay tumagal ng higit sa 2 araw, maghanap ng payo mula sa lisensyadong medikal upang maiwasan ang komplikasyon."
@@ -252,12 +252,12 @@
     {
       "tag": "Heat Exhaustion",
       "patterns": [
-        "Paano gamutin ang pagkapagod dahil sa matinding init?",
-        "Ano ang gagawin kung ako'y nanghihina dahil sa sobrang init?",
-        "Anong gamot ang dapat inumin kung ako'y nanghihina dahil sa sobrang init?",
-        "Paano gamutin pag nahilo dahil sa matinding init?",
-        "Paano lunasan pag nahilo result ng matinding init?",
-        "Anong gagawin pag nahilo sa matinding init?"
+        "Paano gamutin ang pagkapagod dahil sa matinding init",
+        "Ano ang gagawin kung ako'y nanghihina dahil sa sobrang init",
+        "Anong gamot ang dapat inumin kung ako'y nanghihina dahil sa sobrang init",
+        "Paano gamutin pag nahilo dahil sa matinding init",
+        "Paano lunasan pag nahilo result ng matinding init",
+        "Anong gagawin pag nahilo sa matinding init"
       ],
       "responses": [
         "1) Ilipat ang tao sa lugar na hindi mainit at may lilim o air-conditioning. Patagilid ang tao at itaas nang kaunti ang mga binti. Alisin ang masikip o mabigat na damit. Painumin ang tao ng malamig na tubig o ibang inuming hindi naglalaman ng alkohol at caffeine."
@@ -267,11 +267,11 @@
     {
       "tag": "Heat Stroke",
       "patterns": [
-        "Paano gamutin ang nawalan ng malay dahil sa matinding init?",
-        "Ano ang gagawin kung ako'y nawalan ng malay sa matinding init?",
-        "Anong gamot ang dapat inumin kung ako'y nawalan ng malay sa matinding init?",
-        "Paano lunasan ang pagkawala ng malay resulta ng matinding init?",
-        "Anong gagawin pag may nawalan ng malay sa matinding init?"
+        "Paano gamutin ang nawalan ng malay dahil sa matinding init",
+        "Ano ang gagawin kung ako'y nawalan ng malay sa matinding init",
+        "Anong gamot ang dapat inumin kung ako'y nawalan ng malay sa matinding init",
+        "Paano lunasan ang pagkawala ng malay resulta ng matinding init",
+        "Anong gagawin pag may nawalan ng malay sa matinding init"
       ],
       "responses": [
         "1) Palamigin ang buong katawan ng tao sa pamamagitan ng pamunas o pag-spray ng malamig na tubig, at i-kwelyo ang tao upang makatulong na ibaba ang temperatura ng katawan. Bantayan ang mga palatandaan ng mabilis na pag-unlad ng heatstroke, tulad ng pag-atake, pagkawala ng malay na lampas sa ilang segundo, at katamtamang hanggang sa malubhang paghirap sa paghinga."
@@ -281,10 +281,10 @@
     {
       "tag": "Kagat ng Insekto",
       "patterns": [
-        "Paano gamutin ang Kagat ng Insekto?",
-        "Ano ang gagawin kung ako'y nakagat ng insekto?",
-        "Anong gamot ang dapat inumin kung ako'y may kagat ng insekto?",
-        "Paano lunasan ang kagat ng insekto?"
+        "Paano gamutin ang Kagat ng Insekto",
+        "Ano ang gagawin kung ako'y nakagat ng insekto",
+        "Anong gamot ang dapat inumin kung ako'y may kagat ng insekto",
+        "Paano lunasan ang kagat ng insekto"
       ],
       "responses": [
         "1) Linisin ang apektadong lugar gamit ang sabon at tubig. Ilapat ang malamig na kompres (tulad ng isang tela na binabasa ng malamig na tubig) o ice pack sa anumang pamamaga ng hindi bababa sa 10 minuto. Itaas ang apektadong lugar kung maaari, dahil makakatulong ito sa pagbawas ng pamamaga."
@@ -294,10 +294,10 @@
     {
       "tag": "Pagdudugo ng ilong",
       "patterns": [
-        "Paano lunasan ang pagdudugo ng ilong?",
-        "Ano ang gagawin kung ang ilong ko ay nagdudugo?",
-        "Anong gamot ang dapat inumin kung ako'y nagka-nosebleed?",
-        "Paano lunasan ang pagdudugo ng ilong?"
+        "Paano lunasan ang pagdudugo ng ilong",
+        "Ano ang gagawin kung ang ilong ko ay nagdudugo",
+        "Anong gamot ang dapat inumin kung ako'y nagka-nosebleed",
+        "Paano lunasan ang pagdudugo ng ilong"
       ],
       "responses": [
         "1) Umupo at iangat ng kaunti ang ulo. 2) Pisilin ang ilong sa ilalim ng bony na bahagi gamit ang iyong hinlalaki at hintuturo ng 10 na minuto, huminga gamit ang iyong bibig. 3) Iwasan ang pag-iling ng ulo pabalik. 4) Ilapat ang malamig na kompres o yelong may tela sa gitna ng iyong ilong. 5) Manatili na kalmado at iwasan ang paghahangin ng ilong o paglalagay ng anuman bagay kaagad pagkatapos ng paghinto ng pagdudugo."
@@ -307,8 +307,8 @@
     {
       "tag": "Pananakit ng kalamnan",
       "patterns": [
-        "Paano gamutin ang Pananakit ng Kalamnan?",
-        "Ano ang gagawin kung ang kalamnan ko ay namaga o nahirapan?",
+        "Paano gamutin ang Pananakit ng Kalamnan",
+        "Ano ang gagawin kung ang kalamnan ko ay namaga o nahirapan",
         "Anong gamot ang dapat inumin kung masakit ang muscle o kalamnan ko",
         "Paano lunasan ang masakit na muscle o kalamnan ko"
       ],
@@ -320,10 +320,10 @@
     {
       "tag": "Pagdurugo sa tumbong",
       "patterns": [
-        "Paano gamutin ang Pagdurugo sa Tumbong?",
-        "Ano ang gagawin kung ako'y nagdudugo sa Tumbong?",
-        "Anong gamot ang dapat inumin kung ako'y nagdudugo sa Tumbong?",
-        "Paano lunasan ang Pagdurugo sa Tumbong?"
+        "Paano gamutin ang Pagdurugo sa Tumbong",
+        "Ano ang gagawin kung ako'y nagdudugo sa Tumbong",
+        "Anong gamot ang dapat inumin kung ako'y nagdudugo sa Tumbong",
+        "Paano lunasan ang Pagdurugo sa Tumbong"
       ],
       "responses": [
         "1) Para sa minimal na pagdurugo dahil sa hemorrhoids o rectal fissures, karaniwang itinuturo ng mga doktor ang panggagamot sa bahay na may maraming tubig, yelo, at maaaring over-the-counter na mga ointment o suppository upang magkaruon ng paggalaw sa bituka o mapabilis ang tae. Ang emergency treatment ay maaaring maglakip ng IV sa kaso ng dehydration."
@@ -333,10 +333,10 @@
     {
       "tag": "Sunog sa Araw",
       "patterns": [
-        "Paano gamutin ang sunog sa araw?",
-        "Ano ang gagawin kung ako'y nagka-sunog sa araw?",
-        "Anong gamot ang dapat inumin kung ako'y nagka-sunog sa araw?",
-        "Paano lunasan ang nagka-sunog sa araw?"
+        "Paano gamutin ang sunog sa araw",
+        "Ano ang gagawin kung ako'y nagka-sunog sa araw",
+        "Anong gamot ang dapat inumin kung ako'y nagka-sunog sa araw",
+        "Paano lunasan ang nagka-sunog sa araw"
       ],
       "responses": [
         "1) Palamigin ang balat, 2) Uminom ng tubig upang maiwasan ang dehydration, 3) Umangkop ng pain reliever tulad ng ibuprofen (Advil, Motrin IB, at iba pa) upang makatulong sa discomfort at pamamaga ng balat dahil sa sunog ng araw."
@@ -346,10 +346,10 @@
     {
       "tag": "Pananakit ng bayag",
       "patterns": [
-        "Paano gamutin ang Pananakit ng Bayag?",
-        "Ano ang gagawin kung ako'y nananakit ang bayag o ari?",
-        "Anong gamot ang dapat inumin kung sumasakit ang aking bayag o ari?",
-        "Paano lunasan ang Pananakit ng Bayag o ari?"
+        "Paano gamutin ang Pananakit ng Bayag",
+        "Ano ang gagawin kung ako'y nananakit ang bayag o ari",
+        "Anong gamot ang dapat inumin kung sumasakit ang aking bayag o ari",
+        "Paano lunasan ang Pananakit ng Bayag o ari"
       ],
       "responses": [
         "1) Para sa kirot, uminom ng over-the-counter na gamot tulad ng acetaminophen (Tylenol) o ibuprofen (Advil, Motrin). Para sa pamamaga, ilapat ang isang yelong may lamig sa itlog."
@@ -359,10 +359,10 @@
     {
       "tag": "Hilo",
       "patterns": [
-        "Paano gamutin ang pagkahilo?",
-        "Ano ang gagawin kung ako'y nahihilo?",
-        "Anong gamot ang dapat inumin kung ako'y nahihilo?",
-        "Paano lunasan ang pagkahilo?"
+        "Paano gamutin ang pagkahilo",
+        "Ano ang gagawin kung ako'y nahihilo",
+        "Anong gamot ang dapat inumin kung ako'y nahihilo",
+        "Paano lunasan ang pagkahilo"
       ],
       "responses": [
         "1) Iwasan ang pagkailo. Paupuin ang tao at hayaang magpahinga, 2) Siguruhing Ligtas ang Tao. Tulungan ang tao na maiwasan ang pagkatumba. 3) Tumawag sa Isang Tagapag-alaga ng Kalusugan. Ang anumang bagong palatandaan at sintomas ng hilo ay dapat ipacheck sa isang tagapag-alaga ng kalusugan."
@@ -372,10 +372,10 @@
     {
       "tag": "Normal na Pagdurugo",
       "patterns": [
-        "Paano gamutin ang pagdurugo?",
-        "Ano ang gagawin kung ako'y nagdurugo?",
-        "Anong gamot ang dapat inumin kung ako'y normal na nagdurugo?",
-        "Paano lunasan ang normal na pagdurugo?"
+        "Paano gamutin ang pagdurugo",
+        "Ano ang gagawin kung ako'y nagdurugo",
+        "Anong gamot ang dapat inumin kung ako'y normal na nagdurugo",
+        "Paano lunasan ang normal na pagdurugo"
       ],
       "responses": [
         "1) Ang mga unang hakbang sa first aid para pamahalaan ang labas na pagdurugo ay kinabibilangan ng pagsasagawa ng diretsong pressure sa sugat, pagpapanatili ng pressure gamit ang pads at bandages, at pagtaas ng nasaktang bahagi ng katawan pataas sa antas ng puso kung maaari."
@@ -385,10 +385,10 @@
     {
       "tag": "Sugat sa mata",
       "patterns": [
-        "Paano gamutin ang sugat sa Mata?",
-        "Ano ang gagawin kung ako'y may sugat sa Mata?",
-        "Anong gamot ang dapat inumin kung nasugatan ko ang mata ko?",
-        "Paano lunasan ang sugat sa mata?"
+        "Paano gamutin ang sugat sa Mata",
+        "Ano ang gagawin kung ako'y may sugat sa Mata",
+        "Anong gamot ang dapat inumin kung nasugatan ko ang mata ko",
+        "Paano lunasan ang sugat sa mata"
       ],
       "responses": [
         "1) HUWAG kuskusin ang mata, 2) Magblink ng ilang beses at hayaang magbanyos ang luha upang maalis ang mga dumi, 3) Itaas ang itaas na eyelid sa ibabaw ng mga pilikmata ng iyong ibabang eyelid upang payagan ang pilikmata na maalis ang mga dumi at mga particle, 4) Gamitin ang eyewash, solusyon ng saline, o takbo ng gripo ng tubig upang banlawan ang mata."
@@ -398,10 +398,10 @@
     {
       "tag": "Paso ng Kemikal",
       "patterns": [
-        "Paano gamutin ang paso ng Kemikal?",
-        "Ano ang gagawin kung ako'y napaso ng Kemikal?",
-        "Anong gamot ang dapat inumin kung ako'y napaso dahil sa kemikal?",
-        "Paano lunasan ang paso ng Kemikal?"
+        "Paano gamutin ang paso ng Kemikal",
+        "Ano ang gagawin kung ako'y napaso ng Kemikal",
+        "Anong gamot ang dapat inumin kung ako'y napaso dahil sa kemikal",
+        "Paano lunasan ang paso ng Kemikal"
       ],
       "responses": [
         "1) Banlawan ng tubig · Banlawan ang lugar ng hindi bababa sa 20 minuto. · Habang binabanlawan, tanggalin ang anumang damit o alahas na may kemikal, 2) Huwag gumamit ng malakas na daloy ng tubig, kung maaari., 3) Huwag subukan na gawing neutral ang paso gamit ang asido o alkali. Ito ay maaaring magdulot ng kemikal na reaksyon na mas lalong nagpapabuti ng paso, 4) Huwag lagyan ng antibiotic ointment ang paso."
@@ -411,10 +411,10 @@
     {
       "tag": "Lason",
       "patterns": [
-        "Paano gamutin ang lason?",
-        "Ano ang gagawin kung ako'y nalason?",
-        "Anong gamot ang dapat inumin kung ako'y nalason?",
-        "Paano lunasan ang Pagka-lason?"
+        "Paano gamutin ang lason",
+        "Ano ang gagawin kung ako'y nalason",
+        "Anong gamot ang dapat inumin kung ako'y nalason",
+        "Paano lunasan ang Pagka-lason"
       ],
       "responses": [
         "1) Pumunta kaagad sa sariwang hangin. Tumawag sa toll-free na Poison Help line (1-800-222-1222), na nag-uugma sa iyo sa iyong lokal na poison center, 2) Tanggaling ang anumang damit na naapektohan ng lason. Banlawan ang balat ng tumatakbo na tubig ng 15 hanggang 20 minuto. Tumawag sa toll-free na Poison Help line (1-800-222-1222), na nag-uugma sa iyo sa iyong lokal na poison center., 3) Kung ang tao ay uminom ng maling gamot o sobrang dami ng gamot: Tumawag sa Poison Help (1-800-222-1222), na nag-uugma sa iyo sa iyong lokal na poison center., 4) Bawat pagka-lason ay iba-iba."
@@ -424,10 +424,10 @@
     {
       "tag": "Ngipin",
       "patterns": [
-        "Paano gamutin ang mga ngipin na nabasag?",
-        "Ano ang gagawin kung ang aking mga ngipin ay nabasag?",
-        "Anong gamot ang dapat inumin kung ako'y nabasag ang mga ngipin?",
-        "Paano lunasan ang mga nabasag na ngipin?"
+        "Paano gamutin ang mga ngipin na nabasag",
+        "Ano ang gagawin kung ang aking mga ngipin ay nabasag",
+        "Anong gamot ang dapat inumin kung ako'y nabasag ang mga ngipin",
+        "Paano lunasan ang mga nabasag na ngipin"
       ],
       "responses": [
         "1) Dilaan ang ngipin ng mabuti kung marumi, o banlawan ito sa tubig. Ibalik ito sa orihinal na posisyon (sa mga adultong ngipin lamang); huwag kailanman subukang ibalik ang isang ngipin na sanggol (tingnan ang ibaba) kagatin ang isang panyo upang itaga ang ngipin sa lugar. Pumunta sa isang dentista ng emergency."
@@ -437,10 +437,10 @@
     {
       "tag": "seizure",
       "patterns": [
-        "Paano ang gagawin sa taong may seizure?",
-        "Ano ang gagawin kung ako'y magkaruon ng seizure?",
-        "Anong gamot ang dapat inumin kung ako'y nagkaroon ng seizure?",
-        "Paano lunasan ang seizure?"
+        "Paano ang gagawin sa taong may seizure",
+        "Ano ang gagawin kung ako'y magkaruon ng seizure",
+        "Anong gamot ang dapat inumin kung ako'y nagkaroon ng seizure",
+        "Paano lunasan ang seizure"
       ],
       "responses": [
         "1) Manatiling kalmado at manatili sa tabi ng tao, 2) Kung may pagkain o tubig sa kanilang bibig, ilipat sila agad sa kanilang gilid, 3) Ilagay ang isang malambot na bagay sa ilalim ng kanilang ulo at gawing maluwag ang anumang mabigat na damit."
@@ -450,10 +450,10 @@
     {
       "tag": "Sugat sa Ulo",
       "patterns": [
-        "Paano gamutin ang sugat sa Ulo?",
-        "Ano ang gagawin kung ako'y magkaruon ng sugat sa ulo?",
-        "Anong gamot ang dapat inumin kung ako'y nasugatan sa ulo?",
-        "Paano lunasan ang sugat sa ulo?"
+        "Paano gamutin ang sugat sa Ulo",
+        "Ano ang gagawin kung ako'y magkaruon ng sugat sa ulo",
+        "Anong gamot ang dapat inumin kung ako'y nasugatan sa ulo",
+        "Paano lunasan ang sugat sa ulo"
       ],
       "responses": [
         "1) Mag-apply ng malakas na pressure sa sugat gamit ang sterile gauze o malinis na tela. Pero huwag mag-apply ng diretsahang pressure sa sugat kung may suspetsa ng bali sa bungo."
@@ -463,10 +463,10 @@
     {
       "tag": "Pagkahimatay",
       "patterns": [
-        "Paano gamutin ang nahimatay?",
-        "Ano ang gagawin kung pakiramdam ko'y parang mahihimatay ako?",
-        "Anong gamot ang dapat inumin kung ako'y nahimatay?",
-        "Paano lunasan ang Pagkahimatay?"
+        "Paano gamutin ang nahimatay",
+        "Ano ang gagawin kung pakiramdam ko'y parang mahihimatay ako",
+        "Anong gamot ang dapat inumin kung ako'y nahimatay",
+        "Paano lunasan ang Pagkahimatay"
       ],
       "responses": [
         "1) Humiga o umupo. Upang mabawasan ang tsansa ng pagkahimatay muli, huwag bumangon ng masyadong mabilis, 2) Ilagay ang ulo sa pagitan ng tuhod kung umupo, 3) I-position ang tao sa kanyang likod. Kung walang sugat at humihinga ang tao, itaas ang mga binti ng tao pataas sa antas ng puso — mga 12 pulgada (30 sentimetro) — kung maaari. Kung maari, luwagan ang mga sinturon, kwelyo, o iba pang maikli na damit."
@@ -476,10 +476,10 @@
     {
       "tag": "Sakit ng ulo",
       "patterns": [
-        "Paano gamutin ang sakit ng ulo?",
-        "Ano ang gagawin kung masakit ang ulo ko?",
-        "Anong gamot ang dapat inumin kung mayroon akong sakit ng ulo?",
-        "Paano lunasan ang sakit ng ulo?"
+        "Paano gamutin ang sakit ng ulo",
+        "Ano ang gagawin kung masakit ang ulo ko",
+        "Anong gamot ang dapat inumin kung mayroon akong sakit ng ulo",
+        "Paano lunasan ang sakit ng ulo"
       ],
       "responses": [
         "Ibigay ang ibuprofen (Advil, Motrin), aspirin, o acetaminophen (Tylenol) para sa sakit. Iwasan ang ibuprofen at iba pang NSAIDs kung ang tao ay may puso o bato na may sakit. Huwag magbigay ng aspirin sa isang bata na wala pang 18 taong gulang."
@@ -489,10 +489,10 @@
     {
       "tag": "Sipon",
       "patterns": [
-        "Paano gamutin ang Sipon?",
-        "Ano ang gagawin kung ako'y nagkaruon ng Sipon?",
-        "Anong gamot ang dapat inumin kung mayroon akong Sipon?",
-        "Paano lunasan ang Sipon?"
+        "Paano gamutin ang Sipon",
+        "Ano ang gagawin kung ako'y nagkaruon ng Sipon",
+        "Anong gamot ang dapat inumin kung mayroon akong Sipon",
+        "Paano lunasan ang Sipon"
       ],
       "responses": [
         "1) Ang pagiging hydrated ay lubos na mahalaga upang tulungan ang pag-flush ng sipon, pati na rin ang pagbawas ng congestion at pagpapanatili ng kahalumigmigan sa iyong lalamunan. 2) Ang Vitamin C ay napakahalaga sa paglaban sa impeksyon, kaya't sa unang senyales ng sipon, siguruhing dagdagan ang iyong pag-inom nito sa pamamagitan ng pagkain ng maraming berries, citrus fruits, papayas, broccoli, at red peppers na makakatulong sa pagpapalakas ng iyong proteksyon. 3) Pagdating sa paglaban sa sipon, ang Vitamin D ay mahalaga sa pagtutok ng immune response."
@@ -502,10 +502,10 @@
     {
       "tag": "Pantal",
       "patterns": [
-        "Paano tratuhin ang pantal?",
-        "Ano ang gagawin kung ako'y nagkaruon ng Pantal?",
-        "Anong gamot ang dapat inumin kung mayroon akong pantal?",
-        "Paano lunasan ang Pantal?"
+        "Paano tratuhin ang pantal",
+        "Ano ang gagawin kung ako'y nagkaruon ng Pantal",
+        "Anong gamot ang dapat inumin kung mayroon akong pantal",
+        "Paano lunasan ang Pantal"
       ],
       "responses": [
         "1) Ang olive oil ay tumutulong sa pagpapagaling at pinaaangat ang regenerasyon ng balat dahil ito ay puno ng bitamina E at antioxidants. Nakakakalma din ito sa balat at nakakabawas ng pangangati. 2) Ang baking soda ay kapaki-pakinabang sa pagpapadry ng rashes sa balat at pagsasaayos ng pangangati at pamamaga. 3) Ang Aloe Vera, dahil sa kanyang mga antibacterial, antifungal, anti-inflammatory, at emollient na mga katangian, ay napakahusay sa paggamot ng iba't ibang uri ng skin ailments, kasama na ang rashes, pati na rin sa pagpapakinis ng balat."
@@ -515,11 +515,11 @@
     {
       "tag": "Kagat ng Ahas",
       "patterns": [
-        "Paano gamutin ang kagat ng ahas?",
-        "Ano ang gagawin kung ako'y nakagat ng ahas?",
-        "Anong gamot ang dapat inumin kung ako'y nakagat ng ahas?",
-        "Paano lunasan ang kagat ng ahas?",
-        "Ano ang gagawin kung ako'y natuklaw ng ahas?",
+        "Paano gamutin ang kagat ng ahas",
+        "Ano ang gagawin kung ako'y nakagat ng ahas",
+        "Anong gamot ang dapat inumin kung ako'y nakagat ng ahas",
+        "Paano lunasan ang kagat ng ahas",
+        "Ano ang gagawin kung ako'y natuklaw ng ahas",
         "Ako'y nakagat ng ahas.",
         "Ako'y natuklaw ng ahas."
       ],
@@ -531,12 +531,12 @@
     {
       "tag": "Kagat ng Hayop",
       "patterns": [
-        "Paano gamutin ang kagat ng hayop?",
-        "Paano gamutin ang kagat ng unggoy?",
-        "Paano gamutin ang kagat ng aso?",
-        "Ano ang gagawin kung ako'y kinagat ng hayop?",
-        "Anong gamot ang dapat para sa kagat ng unggoy?",
-        "Paano gamutin ang kagat ng aso?",
+        "Paano gamutin ang kagat ng hayop",
+        "Paano gamutin ang kagat ng unggoy",
+        "Paano gamutin ang kagat ng aso",
+        "Ano ang gagawin kung ako'y kinagat ng hayop",
+        "Anong gamot ang dapat para sa kagat ng unggoy",
+        "Paano gamutin ang kagat ng aso",
         "Ako'y kinagat ng aso."
       ],
       "responses": [
@@ -547,23 +547,23 @@
     {
       "tag": "Lunod",
       "patterns": [
-        "Ano ang gagawin kung ang tao ay nalulunod?",
-        "Ano ang gagawin kung ang isang tao ay nalunod na?",
-        "Ano ang mga hakbang na gagawin kung nakakita ako ng isang taong nalulunod?",
-        "Paano tulungan ang isang taong nalulunod?"
+        "Ano ang gagawin kung ang tao ay nalulunod",
+        "Ano ang gagawin kung ang isang tao ay nalunod na",
+        "Ano ang mga hakbang na gagawin kung nakakita ako ng isang taong nalulunod",
+        "Paano tulungan ang isang taong nalulunod"
       ],
       "responses": [
-        "1) Ilapit ang iyong tenga sa bibig at ilong ng tao. Nararamdaman mo ba ang hangin sa iyong pisngi? 2) Tingnan kung gumagalaw ang dibdib ng tao. Kung ang Tao ay hindi humihinga, Tsekan ang Pulso. 3) Tsekahin ang pulso ng tao ng 10 segundo. Kung Wala itong Pulso, Magsimula ng CPR."
+        "1) Ilapit ang iyong tenga sa bibig at ilong ng tao. Nararamdaman mo ba ang hangin sa iyong pisngi 2) Tingnan kung gumagalaw ang dibdib ng tao. Kung ang Tao ay hindi humihinga, Tsekan ang Pulso. 3) Tsekahin ang pulso ng tao ng 10 segundo. Kung Wala itong Pulso, Magsimula ng CPR."
       ],
       "context_set": ""
     },
     {
       "tag": "CPR",
       "patterns": [
-        "Paano magbigay ng CPR?",
-        "Ano ang gagawin sa CPR?",
-        "Ano ang mga hakbang na dapat gawin sa CPR?",
-        "Paano tulungan ang isang nalulunod gamit ang pag-CPR?"
+        "Paano magbigay ng CPR",
+        "Ano ang gagawin sa CPR",
+        "Ano ang mga hakbang na dapat gawin sa CPR",
+        "Paano tulungan ang isang nalulunod gamit ang pag-CPR"
       ],
       "responses": [
         "1) Para sa isang adult o bata, ilagay ang isang kamay sa gitna ng dibdib sa linya ng utong. Maaari mo rin itong itulak gamit ang isang kamay sa ibabaw ng isa pa. Para sa isang sanggol, ilagay ang dalawang daliri sa breastbone. 2) Para sa isang adult o bata, ipitin ito ng hindi bababa sa 2 pulgada. Siguruhing hindi pumipisil sa mga tadyang. Para sa isang sanggol, ipitin ito ng mga 1 at 1/2 pulgada. Siguruhing hindi pumipisil sa dulo ng breastbone. 3) Gawin lamang ang chest compressions, sa rate ng 100-120 bawat minuto o higit pa. Hayaan ang dibdib na umangat nang buo sa bawat itulak. 4) Tingnan kung nagsimula nang huminga ang tao."
