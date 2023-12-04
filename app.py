@@ -82,8 +82,8 @@ def main():
     # StreamLit Title
     st.title("TagaCare")
 
-    st.write(patterns_df)
-    st.write(responses_df)
+    # st.write(patterns_df)
+    # st.write(responses_df)
     
     # React to user input
     if prompt := st.chat_input("Magtanong ng lunas sa sakit"):
