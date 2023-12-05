@@ -81,20 +81,20 @@ def get_most_similar_tag(user_query, dataframe):
 def main():
     # StreamLit Title
     st.title("🏥 TagaCare: Healthcare Tagalog Chatbot 🤖")
-    st.write("Enhancing Healthcare Accessibility through Tagalog Chatbot")
+
     # st.write(patterns_df)
     # st.write(responses_df)
-    
+
     # React to user input
     if prompt := st.chat_input("Magtanong ng lunas sa sakit"):
-        
-        # Use the cached function to get the most similar tag
-        returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
         # Use the cached function to get the most similar tag
         returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
-#        st.success(returned_tag + str(returned_score))
+        # Use the cached function to get the most similar tag
+        returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
+
+        st.success(returned_tag + str(returned_score))
         st.success(responses_df[responses_df['tag']==returned_tag].iloc[0]['response'])
 
 if __name__ == "__main__":
