@@ -80,8 +80,9 @@ def get_most_similar_tag(user_query, dataframe):
 
 def main():
     # StreamLit Title
-    st.title("TagaCare")
-
+    st.title("TagaCare: Healthcare Tagalog Chatbot")
+    st.write("Enhancing Healthcare Accessibility through Tagalog Chatbot")
+    
     # st.write(patterns_df)
     # st.write(responses_df)
     
