@@ -63,7 +63,7 @@ def get_most_similar_tag(user_query, dataframe):
     # Calculate cosine similarity
     similarity_matrix = [[query1.similarity(query2) for query2 in processed_queries] for query1 in processed_queries]
 
-    # Extract similarity scores for the user # Extract similarity scores for the user query
+    # Extract similarity scores for the user query
     user_similarity_scores = similarity_matrix[-1][:-1]
 
     # Find the index of the tag with the highest similarity score
@@ -77,25 +77,29 @@ def get_most_similar_tag(user_query, dataframe):
     # Return the most similar tag and its similarity score
     return most_similar_tag, user_similarity_scores[most_similar_index]
 
-
 def main():
-    # StreamLit Title
-    st.title("TagaCare")
+    # Set page title and description
+    st.title("TagaCare: Healthcare Tagalog Chatbot")
+    st.write("Enhancing Healthcare Accessibility through Tagalog Chatbot")
 
-    # st.write(patterns_df)
-    # st.write(responses_df)
-    
+    # Define UI colors
+    chatbot_color = "#2ecc71"  # Green
+    user_color = "#3498db"     # Blue
+
+    # Define icons
+    chatbot_icon = "🤖"
+    user_icon = "👤"
+
     # React to user input
-    if prompt := st.chat_input("Magtanong ng lunas sa sakit"):
+    if prompt := st.chat_input("Magtanong ng lunas sa sakit", key="user_input", placeholder="Type here..."):
         
         # Use the cached function to get the most similar tag
         returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
-        # Use the cached function to get the most similar tag
-        returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
+        # Display chat messages with different colors and icons
+        st.markdown(f'<p style="background-color: {user_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{user_icon} User: {prompt}</p>', unsafe_allow_html=True)
+        st.markdown(f'<p style="background-color: {chatbot_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{chatbot_icon} TagaCare: {returned_tag} ({returned_score:.2f})</p>', unsafe_allow_html=True)
+        st.markdown(f'<p style="background-color: {chatbot_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{chatbot_icon} TagaCare: {responses_df[responses_df["tag"]==returned_tag].iloc[0]["response"]}</p>', unsafe_allow_html=True)
 
-        st.success(returned_tag + str(returned_score))
-        st.success(responses_df[responses_df['tag']==returned_tag].iloc[0]['response'])
-
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()
