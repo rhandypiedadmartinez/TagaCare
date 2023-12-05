@@ -82,10 +82,6 @@ def main():
     st.title("TagaCare: Healthcare Tagalog Chatbot")
     st.write("Enhancing Healthcare Accessibility through Tagalog Chatbot")
 
-    # Define UI colors
-    chatbot_color = "#2ecc71"  # Green
-    user_color = "#3498db"     # Blue
-
     # Define icons
     chatbot_icon = "🤖"
     user_icon = "👤"
@@ -96,8 +92,10 @@ def main():
         # Use the cached function to get the most similar tag
         returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
-        # Display chat messages with different colors and icons
-        st.markdown(f'<p style="background-color: {user_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{user_icon} User: {prompt}</p>', unsafe_allow_html=True)
-        st.markdown(f'<p style="background-color: {chatbot_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{chatbot_icon} TagaCare: {responses_df[responses_df["tag"]==returned_tag].iloc[0]["response"]}</p>', unsafe_allow_html=True)
+        # Display chat messages with icons
+        st.markdown(f'<p style="text-align: left;">{user_icon} User: {prompt}</p>', unsafe_allow_html=True)
+        st.markdown(f'<p style="text-align: left;">{chatbot_icon} TagaCare: {returned_tag} ({returned_score:.2f})</p>', unsafe_allow_html=True)
+        st.markdown(f'<p style="text-align: left;">{chatbot_icon} TagaCare: {responses_df[responses_df["tag"]==returned_tag].iloc[0]["response"]}</p>', unsafe_allow_html=True)
 
-main()
+if _name_ == "_main_":
+    main()
