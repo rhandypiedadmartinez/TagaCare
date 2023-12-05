@@ -95,7 +95,7 @@ def main():
         returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
         if (returned_score >= 0.5):
-            st.success(returned_tag)
+            st.success("Sakit: "+returned_tag)
             st.success(responses_df[responses_df['tag']==returned_tag].iloc[0]['response'])
         else:        
             st.error("Pasensya kaibigan, wala sa aking talaan ng mga kaalaman ang iyong katanungan")
