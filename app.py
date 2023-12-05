@@ -94,7 +94,7 @@ def main():
         # Use the cached function to get the most similar tag
         returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
-        st.success(returned_tag))
+        st.success(returned_tag)
         st.success(responses_df[responses_df['tag']==returned_tag].iloc[0]['response'])
 
 if __name__ == "__main__":
