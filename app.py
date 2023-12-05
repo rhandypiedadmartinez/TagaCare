@@ -100,5 +100,4 @@ def main():
         st.markdown(f'<p style="background-color: {user_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{user_icon} User: {prompt}</p>', unsafe_allow_html=True)
         st.markdown(f'<p style="background-color: {chatbot_color}; padding: 10px; border-radius: 10px; color: white; text-align: left;">{chatbot_icon} TagaCare: {responses_df[responses_df["tag"]==returned_tag].iloc[0]["response"]}</p>', unsafe_allow_html=True)
 
-if _name_ == "_main_":
-    main()
+main()
