@@ -97,5 +97,5 @@ def main():
         st.markdown(f'<p style="text-align: left;">{chatbot_icon} TagaCare: {returned_tag} ({returned_score:.2f})</p>', unsafe_allow_html=True)
         st.markdown(f'<p style="text-align: left;">{chatbot_icon} TagaCare: {responses_df[responses_df["tag"]==returned_tag].iloc[0]["response"]}</p>', unsafe_allow_html=True)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
