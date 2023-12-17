@@ -13,6 +13,18 @@ def load_nlp_model():
 # Load the spaCy model using the cached function
 nlp = load_nlp_model()
 
+
+def remove_stop_words_spacy(text):
+    doc = nlp(text)
+    filtered_words = [token.text for token in doc if not token.is_stop]
+    return ' '.join(filtered_words)
+
+# Example usage:
+text = "Umihi lang naman ako eh?! Anong gamot sa pagtatae?"
+result = remove_stop_words_spacy(text)
+
+
+
 # Define the cache decorator for loading the DataFrame
 @st.cache_data
 def load_data(file_path):
@@ -53,6 +65,8 @@ patterns_df, responses_df = load_data(file_path)
 # Define the cache decorator for the similarity function
 @st.cache_data
 def get_most_similar_tag(user_query, dataframe):
+    st.write(result)
+
     # Process user query and existing queries with spaCy
     all_queries = list(dataframe['pattern']) + [user_query]
     processed_queries = [nlp(query) for query in all_queries]
