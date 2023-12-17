@@ -20,7 +20,7 @@ def remove_stop_words_spacy(text):
     return ' '.join(filtered_words)
 
 # Example usage:
-text = "Umihi lang naman ako eh?! Anong gamot sa pagtatae?"
+text = "Anong itlog ang tumatae sa bubong ng bah?ay ni aling sumisipa?! Anong gamot sa pagtatae?"
 result = remove_stop_words_spacy(text)
 
 
