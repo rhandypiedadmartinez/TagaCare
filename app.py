@@ -93,7 +93,7 @@ def main():
             st.markdown(message["content"])
 
     # React to user input
-    if prompt := st.chat_input("Magtanong ng lunas sa sakit"):
+    if prompt := st.chat_input("Magtanong ng lunas sa sakit: (e.g. Anong gamot sa sakit ng ulo)"):
 
         # Display user message in chat message container
         st.chat_message("user").markdown(prompt)
