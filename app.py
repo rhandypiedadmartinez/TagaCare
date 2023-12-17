@@ -118,7 +118,8 @@ def main():
 
     # React to user input
     if prompt := st.chat_input("Magtanong ng lunas sa sakit: (e.g. Anong gamot sa sakit ng ulo)"):
-
+        
+        prompt = remove_stop_words_spacy(prompt)
         # Display user message in chat message container
         st.chat_message("user").markdown(prompt)
         
