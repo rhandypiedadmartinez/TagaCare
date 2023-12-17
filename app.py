@@ -4,6 +4,7 @@ import os
 import pandas as pd
 import json
 from sklearn.metrics.pairwise import cosine_similarity
+import re # import regular expression
 
 # Define the cache decorator for loading the spaCy model
 @st.cache_resource()
@@ -17,13 +18,15 @@ nlp = load_nlp_model()
 def remove_stop_words_spacy(text):
     doc = nlp(text)
     filtered_words = [token.text for token in doc if not token.is_stop]
-    
+
     # Remove symbols using regular expressions
     clean_text = ' '.join(filtered_words)
-    clean_text = re.sub(r'[^\w\s]', '', clean_text)
-
-    st.write(clean_text)
-    return clean_text
+    #Removal of Special Characters
+    
+    pattern = r'[^a-zA-z0-9\s(\)\[\]\{\}]'
+    cleaned_text = re.sub(pattern, '', clean_text)
+    
+    return cleaned_text
 
 # Example usage:
 #text = "Anong itlog ang tumatae sa bubong ng bah?ay ni aling sumisipa?! Anong gamot sa pagtatae?"
