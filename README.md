@@ -12,7 +12,7 @@ The streamlit chatbot called "TagaCare" aims to close the informational divide b
 
 TagaCare is not just a chatbot; it's a commitment to making healthcare knowledge accessible to all. By offering a reliable and culturally sensitive platform for health-related queries, TagaCare contributes to the well-being of the Filipino community and beyond.
 
-
+Uses calamanCy Framework from https://huggingface.co/ljvmiranda921/tl_calamancy_lg to use its Tagalog word embeddings for Cosine Similarity between user prompts to the dataset query lists.
 
 To run the program:
 1. Fork the GitHub Repository
