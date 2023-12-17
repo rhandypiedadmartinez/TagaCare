@@ -119,7 +119,6 @@ def main():
     # React to user input
     if prompt := st.chat_input("Magtanong ng lunas sa sakit: (e.g. Anong gamot sa sakit ng ulo)"):
         
-        prompt = remove_stop_words_spacy(prompt)
         # Display user message in chat message container
         st.chat_message("user").markdown(prompt)
         
@@ -127,7 +126,7 @@ def main():
         st.session_state.messages.append({"role": "user", "content": prompt})
 
         # Use the cached function to get the most similar tag
-        returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
+        returned_tag, returned_score = get_most_similar_tag(remove_stop_words_spacy(prompt), patterns_df)
 
         if (returned_score >= 0.6):
             response = responses_df[responses_df['tag']==returned_tag].iloc[0]['response']
