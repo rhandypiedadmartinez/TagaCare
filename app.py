@@ -22,6 +22,7 @@ def remove_stop_words_spacy(text):
     clean_text = ' '.join(filtered_words)
     clean_text = re.sub(r'[^\w\s]', '', clean_text)
 
+    st.write(clean_text)
     return clean_text
 
 # Example usage:
