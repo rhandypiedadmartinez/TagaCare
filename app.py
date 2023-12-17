@@ -65,7 +65,6 @@ patterns_df, responses_df = load_data(file_path)
 # Define the cache decorator for the similarity function
 @st.cache_data
 def get_most_similar_tag(user_query, dataframe):
-    st.write(result)
 
     # Process user query and existing queries with spaCy
     all_queries = list(dataframe['pattern']) + [user_query]
@@ -100,7 +99,9 @@ def main():
     # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
-    
+
+    st.write(result)
+
     # Display chat messages from history on app rerun
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
