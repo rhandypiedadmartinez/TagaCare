@@ -82,23 +82,43 @@ def main():
     # StreamLit Title
     st.title("🏥 TagaCare: Healthcare Tagalog Chatbot 🤖")
     st.write("Enhancing Healthcare Accessibility through Tagalog Chatbot")
-    # st.write(patterns_df)
-    # st.write(responses_df)
+
+    # Initialize chat history
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+    
+    # Display chat messages from history on app rerun
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
 
     # React to user input
     if prompt := st.chat_input("Magtanong ng lunas sa sakit"):
 
-        # Use the cached function to get the most similar tag
-        returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
+        # Display user message in chat message container
+        st.chat_message("user").markdown(prompt)
+        
+        # Add user message to chat history
+        st.session_state.messages.append({"role": "user", "content": prompt})
 
         # Use the cached function to get the most similar tag
         returned_tag, returned_score = get_most_similar_tag(prompt, patterns_df)
 
         if (returned_score >= 0.6):
+            response = responses_df[responses_df['tag']==returned_tag].iloc[0]['response']
+            
             st.success("Sakit: "+returned_tag)
-            st.success(responses_df[responses_df['tag']==returned_tag].iloc[0]['response'])
+            st.success(response)
+    
+            # Add assistant message to chat history
+            st.session_state.messages.append({"role": "assistant", "content": f"{response}"})
+
         else:        
-            st.error("Pasensya kaibigan, wala sa aking talaan ng mga kaalaman ang iyong katanungan")
+            response = "Pasensya kaibigan, wala sa aking talaan ng mga kaalaman ang iyong katanungan" 
+            
+            st.error(response)
+            
+            st.session_state.messages.append({"role": "assistant", "content": f"{response}"})
         
 if __name__ == "__main__":
     main()
