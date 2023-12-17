@@ -20,8 +20,8 @@ def remove_stop_words_spacy(text):
     return ' '.join(filtered_words)
 
 # Example usage:
-text = "Anong itlog ang tumatae sa bubong ng bah?ay ni aling sumisipa?! Anong gamot sa pagtatae?"
-result = remove_stop_words_spacy(text)
+#text = "Anong itlog ang tumatae sa bubong ng bah?ay ni aling sumisipa?! Anong gamot sa pagtatae?"
+#result = remove_stop_words_spacy(text)
 
 
 
@@ -67,8 +67,8 @@ patterns_df, responses_df = load_data(file_path)
 def get_most_similar_tag(user_query, dataframe):
 
     # Process user query and existing queries with spaCy
-    all_queries = list(dataframe['pattern']) + [user_query]
-    processed_queries = [nlp(query) for query in all_queries]
+    all_queries = list(dataframe['pattern']) + [remove_stop_words_spacy(user_query)]
+    processed_queries = [nlp(remove_stop_words_spacy(query)) for query in all_queries]
 
     # Assuming processed_queries is a list of Doc objects
     vectors = [query.vector for query in processed_queries]
