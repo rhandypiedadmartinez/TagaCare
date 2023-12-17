@@ -17,7 +17,12 @@ nlp = load_nlp_model()
 def remove_stop_words_spacy(text):
     doc = nlp(text)
     filtered_words = [token.text for token in doc if not token.is_stop]
-    return ' '.join(filtered_words)
+    
+    # Remove symbols using regular expressions
+    clean_text = ' '.join(filtered_words)
+    clean_text = re.sub(r'[^\w\s]', '', clean_text)
+
+    return clean_text
 
 # Example usage:
 #text = "Anong itlog ang tumatae sa bubong ng bah?ay ni aling sumisipa?! Anong gamot sa pagtatae?"
